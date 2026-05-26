@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "firmwares": [
+    {
+      "id": "blink_ino",
+      "name": "Blink.ino.bin",
+      "version": "v1.0",
+      "description": "Auto-discovered binary",
+      "size_bytes": 300608,
+      "url": ""
+    }
+  ]
+}
