@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "firmwares": [
+    {
+      "id": "blink.ino",
+      "name": "Blink.Ino",
+      "version": "v1.0",
+      "description": "TEST_01",
+      "size_bytes": 300608,
+      "url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/firmwares/Blink.ino.bin"
+    }
+  ]
+}
