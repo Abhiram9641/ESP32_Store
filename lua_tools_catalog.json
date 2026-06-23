@@ -74,42 +74,42 @@
         {
             "id": "wifi_scanner",
             "name": "WiFi Scanner",
-            "version": "1.0.0",
-            "description": "Scan nearby WiFi networks with RSSI, channel, and encryption info",
+            "version": "2.0.0",
+            "description": "Scan nearby WiFi networks with signal bars, RSSI, channel on screen",
             "author": "Abhiram",
             "url": "https://raw.githubusercontent.com/Abhiram9641/ESP32_Store/main/lua_tools/wifi_scanner.lua",
-            "size_bytes": 741,
-            "tags": ["wifi", "network", "scanner"]
+            "size_bytes": 3493,
+            "tags": ["wifi", "network", "scanner", "display"]
         },
         {
             "id": "gpio_monitor",
             "name": "GPIO Monitor",
-            "version": "1.0.0",
-            "description": "Real-time GPIO state monitor with pin toggling",
+            "version": "2.0.0",
+            "description": "Real-time GPIO state monitor with color-coded indicators on screen",
             "author": "Abhiram",
             "url": "https://raw.githubusercontent.com/Abhiram9641/ESP32_Store/main/lua_tools/gpio_monitor.lua",
-            "size_bytes": 856,
-            "tags": ["gpio", "hardware", "debugging"]
+            "size_bytes": 2370,
+            "tags": ["gpio", "hardware", "debugging", "display"]
         },
         {
             "id": "system_info",
             "name": "System Info",
-            "version": "1.0.0",
-            "description": "Display system info: CPU, heap, PSRAM, WiFi, uptime",
+            "version": "2.0.0",
+            "description": "Display system info with heap bars, WiFi signal, uptime on screen",
             "author": "Abhiram",
             "url": "https://raw.githubusercontent.com/Abhiram9641/ESP32_Store/main/lua_tools/system_info.lua",
-            "size_bytes": 995,
-            "tags": ["system", "info", "diagnostics"]
+            "size_bytes": 3653,
+            "tags": ["system", "info", "diagnostics", "display"]
         },
         {
             "id": "led_patterns",
             "name": "LED Patterns",
-            "version": "1.0.0",
-            "description": "Run rainbow, breathing, and custom LED patterns on NeoPixel",
+            "version": "2.0.0",
+            "description": "Run rainbow, breathing, strobe patterns with color preview on screen",
             "author": "Abhiram",
             "url": "https://raw.githubusercontent.com/Abhiram9641/ESP32_Store/main/lua_tools/led_patterns.lua",
-            "size_bytes": 1442,
-            "tags": ["led", "neopixel", "effects"]
+            "size_bytes": 4108,
+            "tags": ["led", "neopixel", "effects", "display"]
         }
     ]
 }
