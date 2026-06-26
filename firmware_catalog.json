@@ -14,7 +14,7 @@
       "name": "Bruce ST7735",
       "version": "v1.0",
       "description": "Bruce firmware for ESP32-S3 with ST7735 1.8 inch display. Green tab. 16MB flash + 8MB PSRAM.",
-      "size_bytes": 3616784,
+      "size_bytes": 3551248,
       "url": "https://raw.githubusercontent.com/Abhiram9641/ESP32_Store/main/firmwares/Bruce-my-esp32s3-st7735.bin"
     }
   ]
